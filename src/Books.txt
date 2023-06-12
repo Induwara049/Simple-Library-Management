@@ -1,0 +1,5 @@
+ID    | NAME  |    CATEGORY   | PRICE  | QUANTITY
+1      Book A      Fiction      19.99      12
+2      Book B      Science      14.99      5
+3      Book C      Fiction      24.99      10
+4      Book D      History      12.99      8
